@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ml-nuero-detector/static/css/main.fd86e5a0.css",
+    "main.js": "/ml-nuero-detector/static/js/main.4b55f477.js",
+    "static/js/488.ed8566e5.chunk.js": "/ml-nuero-detector/static/js/488.ed8566e5.chunk.js",
+    "index.html": "/ml-nuero-detector/index.html",
+    "main.fd86e5a0.css.map": "/ml-nuero-detector/static/css/main.fd86e5a0.css.map",
+    "main.4b55f477.js.map": "/ml-nuero-detector/static/js/main.4b55f477.js.map",
+    "488.ed8566e5.chunk.js.map": "/ml-nuero-detector/static/js/488.ed8566e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd86e5a0.css",
+    "static/js/main.4b55f477.js"
+  ]
+}
